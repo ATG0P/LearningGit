@@ -1,4 +1,4 @@
 # LearningGit
 First time using github
 <br>
-Author - Aryan Dahiya
+Author - Aryan Sunil Dahiya
