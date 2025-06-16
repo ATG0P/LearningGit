@@ -1,4 +1,9 @@
-print("hello world")
-a = [10,12,3445,5,566,4565,65,45]
-a.sort()
-print(a)
+a = "madam"
+b = ""
+c = len(a)-1
+while c>=0:
+  b+=a[c]
+if b == a:
+  print("Yes it's a pallindrome)
+else:
+  print("No it's not a pallindrome)
