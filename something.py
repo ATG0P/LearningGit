@@ -8,3 +8,4 @@ if b == a:
    print("Yes it's a pallindrome")
 else:
     print("No it's not a pallindrome")
+#ohh thank you very much sir!!!
